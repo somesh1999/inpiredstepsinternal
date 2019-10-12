@@ -90,7 +90,6 @@
               <ul class="styled-icons icon-sm pull-right flip sm-pull-none sm-text-center mt-5">
                 <li><a href="#"><i class="fa fa-facebook text-white"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter text-white"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus text-white"></i></a></li>
                 <li><a href="#"><i class="fa fa-instagram text-white"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin text-white"></i></a></li>
               </ul>
@@ -716,7 +715,6 @@
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
               <li><a href="#"><i class="fa fa-vk"></i></a></li>
               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
             </ul>
           </div>
         </div>

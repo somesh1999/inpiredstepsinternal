@@ -11,9 +11,9 @@
         <div id="rev_slider_home" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
           <ul>
             <!-- SLIDE 1 -->
-            <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg4.jpg" data-rotate="0"  data-fstransition="fade" data-saveperformance="off" data-title="Web Show" data-description="">
+            <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="{{asset('assets/images/bg/bg4.jpg')}}" data-rotate="0"  data-fstransition="fade" data-saveperformance="off" data-title="Web Show" data-description="">
               <!-- MAIN IMAGE -->
-              <img src="images/bg/bg4.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+              <img src="{{asset('assets/images/bg/bg4.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. 1 -->
               <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0 bg-theme-colored-transparent-4" 
@@ -52,7 +52,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                style="z-index: 5; white-space: nowrap; font-weight:700;">Best <span class="text-theme-colored2">Online</span> Course
+                style="z-index: 5; white-space: nowrap; font-weight:700;"><span class="text-theme-colored2">K-POP</span> <br >IDLE & RAP TRAINING
               </div>
               <!-- LAYER NR. 3 -->
               <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
@@ -75,7 +75,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                style="z-index: 5; white-space: nowrap;">We provides always our best educational services for our all students <br> and  always try to achieve our students trust and satisfaction
+                style="z-index: 5; white-space: nowrap;">
               </div>
               <!-- LAYER NR. 4 -->
               <div class="tp-caption rs-parallaxlevel-0" 
@@ -96,14 +96,13 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-responsive="off"
-                style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15" href="#">Our Service</a><a class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30" href="#">Get a Quote</a>
               </div>
             </li>
 
             <!-- SLIDE 2 -->
-            <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg2.jpg" data-rotate="0"  data-fstransition="fade" data-saveperformance="off" data-title="Web Show" data-description="">
+            <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="{{asset('assets/images/bg/bg2.jpg')}}" data-rotate="0"  data-fstransition="fade" data-saveperformance="off" data-title="Web Show" data-description="">
               <!-- MAIN IMAGE -->
-              <img src="images/bg/bg2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+              <img src="{{asset('assets/images/bg/bg2.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. 1 -->
               <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0 bg-theme-colored-transparent-4" 
@@ -142,7 +141,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                style="z-index: 5; white-space: nowrap; font-weight:700;">Welcome To<span class="text-theme-colored2"> Learpro</span>
+                style="z-index: 5; white-space: nowrap; font-weight:700;">STUDY<span class="text-theme-colored2"> ABROAD<span>
               </div>
               <!-- LAYER NR. 3 -->
               <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
@@ -165,7 +164,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                style="z-index: 5; white-space: nowrap;">We provides always our best educational services for our all students <br> and  always try to achieve our students trust and satisfaction
+                style="z-index: 5; white-space: nowrap;">
               </div>
               <!-- LAYER NR. 4 -->
               <div class="tp-caption rs-parallaxlevel-0" 
@@ -186,14 +185,13 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-responsive="off"
-                style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15" href="#">Our Service</a><a class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30" href="#">Get a Quote</a>
               </div>
             </li>
 
             <!-- SLIDE 3 -->
-            <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg3.jpg" data-rotate="0"  data-fstransition="fade" data-saveperformance="off" data-title="Web Show" data-description="">
+            <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="{{asset('assets/images/bg/bg2.jpg')}}" data-rotate="0"  data-fstransition="fade" data-saveperformance="off" data-title="Web Show" data-description="">
               <!-- MAIN IMAGE -->
-              <img src="images/bg/bg3.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+              <img src="{{asset('assets/images/bg/bg2.jpg')}}" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. 1 -->
               <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0 bg-theme-colored-transparent-4" 
@@ -232,7 +230,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                style="z-index: 5; white-space: nowrap; font-weight:700;">Leading<span class="text-theme-colored2"> University</span>
+                style="z-index: 5; white-space: nowrap; font-weight:700;">EXPERIENCE BEING AN<span class="text-theme-colored2"> IDOL</span>
               </div>
               <!-- LAYER NR. 3 -->
               <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
@@ -255,7 +253,7 @@
                 data-splitin="none" 
                 data-splitout="none" 
                 data-responsive_offset="on" 
-                style="z-index: 5; white-space: nowrap;">We provides always our best educational services for our all students <br> and  always try to achieve our students trust and satisfaction
+                style="z-index: 5; white-space: nowrap;">
               </div>
               <!-- LAYER NR. 4 -->
               <div class="tp-caption rs-parallaxlevel-0" 
@@ -276,7 +274,6 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-responsive="off"
-                style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-theme-colored2 btn-lg btn-flat text-white font-weight-600 pl-30 pr-30 mr-15" href="#">Our Service</a><a class="btn btn-default btn-transparent btn-bordered btn-lg btn-flat font-weight-600 pl-30 pr-30" href="#">Get a Quote</a>
               </div>
             </li>
           </ul>
@@ -397,12 +394,15 @@
       <div class="section-content">
         <div class="row">
           <div class="col-md-6">
-            <h5 class="text-uppercase text-gray-darkgray mb-15">In 2016 We Start Our Journey</h5>
+            <h5 class="text-uppercase text-gray-darkgray mb-15">In 2019 We Start Our Journey</h5>
             <div class="double-line-bottom-theme-colored-2"></div>
-            <h3 class="font-weight-500 font-30 font- mt-10">Make Your Dream<span class="text-theme-colored"> Education</span> Site with Our LearnPro Template</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore atque officiis maxime suscipit expedita obcaecati nulla in ducimus iure quos quam recusandae dolor quas et perspiciatis voluptatum accusantium delectus nisi reprehenderit,</p>
+            <h3 class="font-weight-500 font-30 font- mt-10"> TAKE YOUR FIRST <span class="text-theme-colored"> INSPIRED</span> STEP TODAY!</h3>
+            <p><b>HAVE A PASSION FOR KOREA, THE ENTERTAINMENT INDUSTRY, OR IMPROVING YOURSELF?</b>
+                <br>
+                <i>At Inspired Steps, we take your passion and turn it into reality through our diverse programs.</i>
+            </p>
             <img src="images/signature.png" alt="" class="mt-10 mb-15">
-            <div><a href="#" class="btn btn-theme-colored mb-sm-30">Purchase Now</a></div>
+            <div><a href="#" class="btn btn-theme-colored mb-sm-30">Join Now</a></div>
           </div>
           <div class="col-md-6">
             <div class="owl-carousel-1col" data-nav="true">
@@ -452,627 +452,144 @@
       <div class="section-title text-center">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="text-uppercase title">Popular <span class="text-theme-colored2">Courses</span></h2>              
-            <p class="text-uppercase mb-0">Choose Your Desired Course</p>
+            <h2 class="text-uppercase title"><span class="text-theme-colored2">PROGRAMS OFFERED</span></h2>              
+            <p class="text-uppercase mb-0">Choose Your Desired Program</p>
             <div class="double-line-bottom-centered-theme-colored-2"></div>
           </div>
         </div>
       </div>
       
       <div class="row mtli-row-clearfix">
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
             <div class="course-thumb">
               <img class="img-fullwidth" alt="" src="images/course/sm1.jpg">
-              <div class="price-tag">$460</div>
+              <div class="price-tag">FREE</div>
             </div>
             <div class="course-details border-1px clearfix p-15 pt-15">
+                <img src="{{asset('assets/images/bg/bg4.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Nural Networking Course</h4></a>
+                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">K-STAR TRAINING PROGRAMS</h4></a>
               </div>
               <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
               </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
+              <p class="course-description mt-5">Inspired Steps offers K-pop training programs with unforgettable experiences for anyone interested in K-POP hoping to become singers, dancers or entertainers. Our flexible programs welcomes Everybody. Our experienced trainers who have worked alongside real idol provide guidance and support, making sure the program is enjoyable for you and everyone involved.</p>
             </div>
             <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
+              
             </div>
           </div>
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
             <div class="course-thumb">
               <img class="img-fullwidth" alt="" src="images/course/sm2.jpg">
-              <div class="price-tag">Free</div>
+              <div class="price-tag">FREE</div>
             </div>
             <div class="course-details border-1px clearfix p-15 pt-15">
+                <img src="{{asset('assets/images/bg/bg5.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Computer Science</h4></a>
+                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">ONLINE VOCAL LESSONS</h4></a>
               </div>
               <div class="author-thumb">
                 <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
               </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
+              <p class="course-description mt-5">Enhance your potential with our set of online lessons! With Inspired Steps’ exclusive set of vocal lessons with professional trainers, you will be able to boost your vocal skills to achieve a level of proficiency beyond your expectations.</p>
             </div>
             <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-          <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">$180</div>
-            </div>
-            <div class="course-details border-1px clearfix p-15 pt-15">
-              <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Accounting</h4></a>
-              </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
-            </div>
-            <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-          <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm4.jpg">
-              <div class="price-tag">$180</div>
-            </div>
-            <div class="course-details border-1px clearfix p-15 pt-15">
-              <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Communication</h4></a>
-              </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
-            </div>
-            <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-          <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">$120</div>
-            </div>
-            <div class="course-details border-1px clearfix p-15 pt-15">
-              <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Psychology</h4></a>
-              </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
-            </div>
-            <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-          <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">$360</div>
-            </div>
-            <div class="course-details border-1px clearfix p-15 pt-15">
-              <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Electrical Engineering</h4></a>
-              </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
-            </div>
-            <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-          <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">Free</div>
-            </div>
-            <div class="course-details border-1px clearfix p-15 pt-15">
-              <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Spoken English</h4></a>
-              </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
-            </div>
-            <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-          <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">$240</div>
-            </div>
-            <div class="course-details border-1px clearfix p-15 pt-15">
-              <div class="course-top-part">
-                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">Graphic Design</h4></a>
-              </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
-              <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
-            </div>
-            <div class="course-meta bg-silver-deep">
-              <ul class="list-inline">
-                <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
-                <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
-                <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section: Mission -->
-  <section id="mission">
-    <div class="container-fluid pt-0 pb-0">
-      <div class="row equal-height">
-        <div class="col-sm-6 col-md-6 pull-right xs-pull-none bg-theme-colored">
-          <div class="pt-80 pb-50 pl-90 pr-160 p-md-30">
-            <h2 class="text-white">Why <span class="text-theme-colored2">Choose</span> Us?</h2>
-            <div class="row mtli-row-clearfix">
-              <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <div class="double-line-bottom-theme-colored-2 mb-30"></div>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <div class="icon-box left media p-0 mb-40"> 
-                  <a class="media-left pull-left flip mr-20" href="#"><i class="pe-7s-note2 text-theme-colored2 font-weight-600"></i></a>
-                  <div class="media-body">
-                    <h4 class="media-heading text-white heading mb-10">Popular Courses</h4>
-                    <p>Lorem ipsum dolor sit ametcon sectet uradipis icing elitCum consec tetur sectet uradipis icing consec tetur</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <div class="icon-box left media p-0 mb-40"> 
-                  <a class="media-left pull-left flip mr-20" href="#"><i class="pe-7s-notebook text-theme-colored2 font-weight-600"></i></a>
-                  <div class="media-body">
-                    <h4 class="media-heading text-white heading mb-10">Modern Book Library</h4>
-                    <p>Lorem ipsum dolor sit ametcon sectet uradipis icing elitCum consec tetur sectet uradipis icing consec tetur</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <div class="icon-box left media p-0 mb-40"> 
-                  <a class="media-left pull-left flip mr-20" href="#"><i class="pe-7s-diamond text-theme-colored2 font-weight-600"></i></a>
-                  <div class="media-body">
-                    <h4 class="media-heading text-white heading mb-10">Qualified Teachers</h4>
-                    <p>Lorem ipsum dolor sit ametcon sectet uradipis icing elitCum consec tetur sectet uradipis icing consec tetur</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <div class="icon-box left media p-0 mb-40"> 
-                  <a class="media-left pull-left flip mr-20" href="#"><i class="pe-7s-bell text-theme-colored2 font-weight-600"></i></a>
-                  <div class="media-body">
-                    <h4 class="media-heading text-white heading mb-10">Update Notification</h4>
-                    <p>Lorem ipsum dolor sit ametcon sectet uradipis icing elitCum consec tetur sectet uradipis icing consec tetur</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <div class="icon-box left media p-0 mb-40"> 
-                  <a class="media-left pull-left flip mr-20" href="#"><i class="pe-7s-musiclist text-theme-colored2 font-weight-600"></i></a>
-                  <div class="media-body">
-                    <h4 class="media-heading text-white heading mb-10">Entertainment Facilities</h4>
-                    <p>Lorem ipsum dolor sit ametcon sectet uradipis icing elitCum consec tetur sectet uradipis icing consec tetur</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <div class="icon-box left media p-0 mb-40"> 
-                  <a class="media-left pull-left flip mr-20" href="#"><i class="pe-7s-global text-theme-colored2 font-weight-600"></i></a>
-                  <div class="media-body">
-                    <h4 class="media-heading text-white heading mb-10">24/7 Online Support</h4>
-                    <p>Lorem ipsum dolor sit ametcon sectet uradipis icing elitCum consec tetur sectet uradipis icing consec tetur</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-6 p-0 bg-img-cover" data-bg-img="images/photos/ab1.jpg">
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section: Team -->
-  <section id="team" class="bg-silver-deep">
-    <div class="container pb-40">
-      <div class="section-title">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-uppercase title">Qualified <span class="text-theme-colored2">Teachers</span></h2>              
-            <p class="text-uppercase mb-0">We Have Highly Qualified Teachers</p>
-                        <div class="double-line-bottom-theme-colored-2"></div>
-                      </div>
-        </div>
-      </div>
-      <div class="row mtli-row-clearfix">
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="team-members border-bottom-theme-colored2px text-center maxwidth400 mb-30">
-            <div class="team-thumb">
-              <img class="img-fullwidth" alt="" src="images/team/1.jpg">
-              <div class="team-overlay"></div>
-              <ul class="styled-icons team-social icon-sm">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-              </ul>
-            </div>
-            <div class="team-details">
-              <h4 class="text-uppercase text-theme-colored font-weight-600 m-5">Jhon Anderson</h4>
-              <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Civil Engineer</h6>
-              <p class="hidden-md">Lorem ipsum dolor sit ametcon secte adipis elit. Debitis magnam placeat dignissimos saperator ellium</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="team-members border-bottom-theme-colored2px text-center maxwidth400 mb-30">
-            <div class="team-thumb">
-              <img class="img-fullwidth" alt="" src="images/team/2.jpg">
-              <div class="team-overlay"></div>
-              <ul class="styled-icons team-social icon-sm">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-              </ul>
-            </div>
-            <div class="team-details">
-              <h4 class="text-uppercase text-theme-colored font-weight-600 m-5">Jhon Anderson</h4>
-              <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Civil Engineer</h6>
-              <p class="hidden-md">Lorem ipsum dolor sit ametcon secte adipis elit. Debitis magnam placeat dignissimos saperator ellium</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="team-members border-bottom-theme-colored2px text-center maxwidth400 mb-30">
-            <div class="team-thumb">
-              <img class="img-fullwidth" alt="" src="images/team/3.jpg">
-              <div class="team-overlay"></div>
-              <ul class="styled-icons team-social icon-sm">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-              </ul>
-            </div>
-            <div class="team-details">
-              <h4 class="text-uppercase text-theme-colored font-weight-600 m-5">Jhon Anderson</h4>
-              <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Civil Engineer</h6>
-              <p class="hidden-md">Lorem ipsum dolor sit ametcon secte adipis elit. Debitis magnam placeat dignissimos saperator ellium</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-3">
-          <div class="team-members border-bottom-theme-colored2px text-center maxwidth400 mb-30">
-            <div class="team-thumb">
-              <img class="img-fullwidth" alt="" src="images/team/4.jpg">
-              <div class="team-overlay"></div>
-              <ul class="styled-icons team-social icon-sm">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-              </ul>
-            </div>
-            <div class="team-details">
-              <h4 class="text-uppercase text-theme-colored font-weight-600 m-5">Jhon Anderson</h4>
-              <h6 class="text-gray font-13 font-weight-400 line-bottom-centered mt-0">Civil Engineer</h6>
-              <p class="hidden-md">Lorem ipsum dolor sit ametcon secte adipis elit. Debitis magnam placeat dignissimos saperator ellium</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section: Gallery -->
-  <section id="gallery">
-    <div class="container">
-      <div class="section-title">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-uppercase title">Campus <span class="text-theme-colored2">Gallery</span></h2>              
-            <p class="text-uppercase mb-0">See our gallery pictures</p>
-                        <div class="double-line-bottom-theme-colored-2"></div>
-                      </div>
-        </div>
-      </div>
-      <div class="section-content">
-        <div class="row">
-          <div class="col-md-12">
-            <!-- Works Filter -->
-            <div class="portfolio-filter font-alt align-center">
-              <a href="#" class="active" data-filter="*">All</a>
-              <a href="#select1" class="" data-filter=".select1">Photos</a>
-              <a href="#select2" class="" data-filter=".select2">Campus</a>
-              <a href="#select3" class="" data-filter=".select3">Students</a>
-            </div>
-            <!-- End Works Filter -->
-            
-            <!-- Portfolio Gallery Grid -->
-            <div id="grid" class="gallery-isotope default-animation-effect grid-4 gutter clearfix">
-             
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select1">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s1.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/1.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/1.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select1">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s2.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/2.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/2.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select2">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s3.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/3.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/3.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select3">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s4.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/4.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/4.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select1" style="position: absolute; left: 0px; top: 165px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s5.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/5.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/5.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select3" style="position: absolute; left: 285px; top: 165px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s6.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/6.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/6.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select2" style="position: absolute; left: 570px; top: 165px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s7.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/7.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/7.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select3" style="position: absolute; left: 855px; top: 165px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s8.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/8.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/8.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select1" style="position: absolute; left: 0px; top: 330px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s9.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/9.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/9.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select2" style="position: absolute; left: 285px; top: 330px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s10.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/10.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/10.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select1" style="position: absolute; left: 570px; top: 330px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s11.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/11.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/11.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
-
-              <!-- Portfolio Item Start -->
-              <div class="gallery-item select3" style="position: absolute; left: 855px; top: 330px;">
-                <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/s12.jpg" alt="project">
-                  <div class="overlay-shade"></div>
-                  <div class="icons-holder">
-                    <div class="icons-holder-inner">
-                      <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                        <a data-lightbox="image" href="images/gallery/12.jpg"><i class="fa fa-plus"></i></a>
-                        <a href="#"><i class="fa fa-link"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="hover-link" data-lightbox="image" href="images/gallery/12.jpg">View more</a>
-                </div>
-              </div>
-              <!-- Portfolio Item End -->
               
             </div>
-            <!-- End Portfolio Gallery Grid -->
           </div>
         </div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
+              <div class="price-tag">FREE</div>
+            </div>
+            <div class="course-details border-1px clearfix p-15 pt-15">
+                <img src="{{asset('assets/images/bg/bg6.jpg')}}" alt="A K-pop img">
+              <div class="course-top-part">
+                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">TALENT COUNSELING & EVALUATION</h4></a>
+              </div>
+              <div class="author-thumb">
+                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
+              </div>
+              <p class="course-description mt-5">Do you want any feedback or helpful tips from industry insiders about your performances? You are in the right place! Our experts are here to provide you with advice on how you can improve your video according to the Korean Entertainments Audition Standard. Send your video to get started today!</p>
+            </div>
+            <div class="course-meta bg-silver-deep">
+              
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
+              <div class="price-tag">FREE</div>
+            </div>
+            <div class="course-details border-1px clearfix p-15 pt-15">
+                <img src="{{asset('assets/images/bg/bg7.jpg')}}" alt="A K-pop img">
+              <div class="course-top-part">
+                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">STUDY ABROAD</h4></a>
+              </div>
+              <div class="author-thumb">
+                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
+              </div>
+              <p class="course-description mt-5">With more than 10 years of experience in handling international education admission, we are perfectly equipped to meet your needs for choosing the right school whether it’s here in Korea or elsewhere. We’re here to help and guide you through each step of the school and Visa application process. In addition, we will also provide support and advice while you are studying abroad to ensure you’re feeling as comfortable as possible.</p>
+            </div>
+            <div class="course-meta bg-silver-deep">
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
+              <div class="price-tag">FREE</div>
+            </div>
+            <div class="course-details border-1px clearfix p-15 pt-15">
+                <img src="{{asset('assets/images/bg/bg8.jpg')}}" alt="A K-pop img">
+              <div class="course-top-part">
+                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">KOREAN LANGUAGE</h4></a>
+              </div>
+              <div class="author-thumb">
+                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
+              </div>
+              <p class="course-description mt-5">Looking to learn Korean but have a tight schedule getting in the way? At Inspired Steps, we take the frustration out of the process by providing high-quality online classes with flexible schedules you can access anywhere and at any time. Don’t let this amazing learning opportunity pass you by simply because of your circumstances; get started today with our adjustable Korean programs!</p>
+            </div>
+            <div class="course-meta bg-silver-deep">
+             
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
+          <div class="course-single-item style2 text-center mb-40">
+            <div class="course-thumb">
+              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
+              <div class="price-tag">FREE</div>
+            </div>
+            <div class="course-details border-1px clearfix p-15 pt-15">
+                <img src="{{asset('assets/images/bg/bg9.jpg')}}" alt="A K-pop img">
+              <div class="course-top-part">
+                <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">ONLINE CASTING</h4></a>
+              </div>
+              <div class="author-thumb">
+                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
+              </div>
+              <p class="course-description mt-5">Your passion may lead you to new levels of success with Inspired Steps! Do you have your own performance videos but aren’t sure how to be seen by the industry? Inspired Steps is the platform for you; after uploading your videos here, talent scouts and entertainment agencies that check our platform frequently may take you to new heights!</p>
+            </div>
+            <div class="course-meta bg-silver-deep">
+              
+            </div>
+          </div>
+        </div>
+        
       </div>
     </div>
-  </section>    
+  </section>
 
   <!-- Divider: Reservation Form -->
   <section id="reservation" class="parallax layer-overlay overlay-theme-colored-9" data-bg-img="images/bg/bg1.jpg" data-parallax-ratio="0.4">
@@ -1194,153 +711,6 @@
             <!-- Application Form Validation Start -->
             </div>
          </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section: blog -->
-  <section id="blog">
-    <div class="container pb-40">
-      <div class="section-title">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-uppercase title">Latest <span class="text-theme-colored2">News </span></h2>              
-            <p class="text-uppercase mb-0">See All Time Latest News</p>
-                        <div class="double-line-bottom-theme-colored-2"></div>
-                      </div>
-        </div>
-      </div>
-      <div class="section-content">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="owl-carousel-3col owl-nav-top" data-nav="true">
-              <div class="item">
-                <article class="post clearfix mb-30">
-                  <div class="entry-header">
-                    <div class="post-thumb thumb"> 
-                      <img src="images/blog/1.jpg" alt="" class="img-responsive img-fullwidth"> 
-                    </div>                    
-                    <div class="entry-date media-left text-center flip bg-theme-colored border-top-theme-colored2-3px pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600">28</li>
-                        <li class="font-12 text-white text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="entry-content p-15">
-                    <div class="entry-meta media no-bg no-border mt-0 mb-10">
-                      <div class="media-body pl-0">
-                        <div class="event-content pull-left flip">
-                          <h4 class="entry-title text-white text-uppercase font-weight-600 m-0 mt-5"><a href="blog-single-left-sidebar.html">Post title here</a></h4>
-                          <ul class="list-inline">
-                            <li><i class="fa fa-user-o mr-5 text-theme-colored2"></i>By Author</li>
-                            <li><i class="fa fa-thumbs-o-up mr-5 text-theme-colored2"></i>Likes</li>
-                            <li><i class="fa fa-share-alt mr-5 text-theme-colored2"></i> 895 Likes</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti</p>
-                                          <a class="btn btn-default btn-flat font-12 mt-10 ml-5" href="blog-single-left-sidebar.html"> View Details</a>
-                  </div>
-                </article>
-              </div>
-              <div class="item">
-                <article class="post clearfix mb-30">
-                  <div class="entry-header">
-                    <div class="post-thumb thumb"> 
-                      <img src="images/blog/2.jpg" alt="" class="img-responsive img-fullwidth"> 
-                    </div>                    
-                    <div class="entry-date media-left text-center flip bg-theme-colored border-top-theme-colored2-3px pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600">28</li>
-                        <li class="font-12 text-white text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="entry-content p-15">
-                    <div class="entry-meta media no-bg no-border mt-0 mb-10">
-                      <div class="media-body pl-0">
-                        <div class="event-content pull-left flip">
-                          <h4 class="entry-title text-white text-uppercase font-weight-600 m-0 mt-5"><a href="blog-single-left-sidebar.html">Post title here</a></h4>
-                          <ul class="list-inline">
-                            <li><i class="fa fa-user-o mr-5 text-theme-colored2"></i>By Author</li>
-                            <li><i class="fa fa-thumbs-o-up mr-5 text-theme-colored2"></i>Likes</li>
-                            <li><i class="fa fa-share-alt mr-5 text-theme-colored2"></i> 895 Likes</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti</p>
-                                          <a class="btn btn-default btn-flat font-12 mt-10 ml-5" href="blog-single-left-sidebar.html"> View Details</a>
-                  </div>
-                </article>
-              </div>
-              <div class="item">
-                <article class="post clearfix mb-30">
-                  <div class="entry-header">
-                    <div class="post-thumb thumb"> 
-                      <img src="images/blog/3.jpg" alt="" class="img-responsive img-fullwidth"> 
-                    </div>                    
-                    <div class="entry-date media-left text-center flip bg-theme-colored border-top-theme-colored2-3px pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600">28</li>
-                        <li class="font-12 text-white text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="entry-content p-15">
-                    <div class="entry-meta media no-bg no-border mt-0 mb-10">
-                      <div class="media-body pl-0">
-                        <div class="event-content pull-left flip">
-                          <h4 class="entry-title text-white text-uppercase font-weight-600 m-0 mt-5"><a href="blog-single-left-sidebar.html">Post title here</a></h4>
-                          <ul class="list-inline">
-                            <li><i class="fa fa-user-o mr-5 text-theme-colored2"></i>By Author</li>
-                            <li><i class="fa fa-thumbs-o-up mr-5 text-theme-colored2"></i>Likes</li>
-                            <li><i class="fa fa-share-alt mr-5 text-theme-colored2"></i> 895 Likes</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti</p>
-                    <a class="btn btn-default btn-flat font-12 mt-10 ml-5" href="blog-single-left-sidebar.html"> View Details</a>
-                  </div>
-                </article>
-              </div>
-              <div class="item">
-                <article class="post clearfix mb-30">
-                  <div class="entry-header">
-                    <div class="post-thumb thumb"> 
-                      <img src="images/blog/4.jpg" alt="" class="img-responsive img-fullwidth"> 
-                    </div>                    
-                    <div class="entry-date media-left text-center flip bg-theme-colored border-top-theme-colored2-3px pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="font-16 text-white font-weight-600">28</li>
-                        <li class="font-12 text-white text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div class="entry-content p-15">
-                    <div class="entry-meta media no-bg no-border mt-0 mb-10">
-                      <div class="media-body pl-0">
-                        <div class="event-content pull-left flip">
-                          <h4 class="entry-title text-white text-uppercase font-weight-600 m-0 mt-5"><a href="blog-single-left-sidebar.html">Post title here</a></h4>
-                          <ul class="list-inline">
-                            <li><i class="fa fa-user-o mr-5 text-theme-colored2"></i>By Author</li>
-                            <li><i class="fa fa-thumbs-o-up mr-5 text-theme-colored2"></i>Likes</li>
-                            <li><i class="fa fa-share-alt mr-5 text-theme-colored2"></i> 895 Likes</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti</p>
-                                          <a class="btn btn-default btn-flat font-12 mt-10 ml-5" href="blog-single-left-sidebar.html"> View Details</a>
-                  </div>
-                </article>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </section>
