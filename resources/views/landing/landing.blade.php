@@ -393,86 +393,31 @@
     <div class="container">
       <div class="section-content">
         <div class="row">
-          <div class="col-md-6">
-            <h5 class="text-uppercase text-gray-darkgray mb-15">In 2019 We Start Our Journey</h5>
-            <div class="double-line-bottom-theme-colored-2"></div>
-            <h3 class="font-weight-500 font-30 font- mt-10"> TAKE YOUR FIRST <span class="text-theme-colored"> INSPIRED</span> STEP TODAY!</h3>
-            <p><b>HAVE A PASSION FOR KOREA, THE ENTERTAINMENT INDUSTRY, OR IMPROVING YOURSELF?</b>
-                <br>
-                <i>At Inspired Steps, we take your passion and turn it into reality through our diverse programs.</i>
-            </p>
-            <img src="images/signature.png" alt="" class="mt-10 mb-15">
-            <div><a href="#" class="btn btn-theme-colored mb-sm-30">Join Now</a></div>
+          <div class="col-md-12">
+            <h2 class="font-weight-500 font-30 font- mt-10">TAKE YOUR FIRST INSPIRED STEP TODAY!</h2>
+            <h4>HAVE A PASSION FOR KOREA, THE ENTERTAINMENT INDUSTRY, OR IMPROVING YOURSELF?</h4>
+            <p style="font-size: 16px; margin-top:20px;"> At Inspired Steps, we take your passion and turn it into reality through our diverse programs.</p>
           </div>
-          <div class="col-md-6">
-            <div class="owl-carousel-1col" data-nav="true">
-              <div class="item">
-                <div class="box-hover-effect about-video">
-                  <div class="effect-wrapper">
-                    <div class="thumb">
-                      <img class="img-responsive img-fullwidth" src="images/photos/2.jpg" alt="">
-                    </div>
-                    <div class="video-button"></div>
-                    <a class="hover-link" data-lightbox-gallery="youtube-video" href="https://www.youtube.com/watch?v=F3QpgXBtDeo" title="Youtube Video">Youtube Video</a>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="box-hover-effect about-video">
-                  <div class="effect-wrapper">
-                    <div class="thumb">
-                      <img class="img-responsive img-fullwidth" src="images/photos/3.jpg" alt="">
-                    </div>
-                    <div class="video-button"></div>
-                    <a class="hover-link" data-lightbox-gallery="youtube-video" href="https://www.youtube.com/watch?v=F3QpgXBtDeo" title="Youtube Video">Youtube Video</a>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="box-hover-effect about-video">
-                  <div class="effect-wrapper">
-                    <div class="thumb">
-                      <img class="img-responsive img-fullwidth" src="images/photos/4.jpg" alt="">
-                    </div>
-                    <div class="video-button"></div>
-                    <a class="hover-link" data-lightbox-gallery="youtube-video" href="https://www.youtube.com/watch?v=F3QpgXBtDeo" title="Youtube Video">Youtube Video</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+         
         </div>
       </div>
     </div>
   </section>
 
   <!-- Section: Courses -->
-  <section id="courses">
-    <div class="container pb-40">
-      <div class="section-title text-center">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-uppercase title"><span class="text-theme-colored2">PROGRAMS OFFERED</span></h2>              
-            <p class="text-uppercase mb-0">Choose Your Desired Program</p>
-            <div class="double-line-bottom-centered-theme-colored-2"></div>
-          </div>
-        </div>
-      </div>
+  <section id="courses" style="margin-top:-90px;">
+    <div class="container">
+      
       
       <div class="row mtli-row-clearfix">
         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm1.jpg">
-              <div class="price-tag">FREE</div>
-            </div>
             <div class="course-details border-1px clearfix p-15 pt-15">
                 <img src="{{asset('assets/images/bg/bg4.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
                 <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">K-STAR TRAINING PROGRAMS</h4></a>
               </div>
-              <div class="author-thumb">
-              </div>
+           
               <p class="course-description mt-5">Inspired Steps offers K-pop training programs with unforgettable experiences for anyone interested in K-POP hoping to become singers, dancers or entertainers. Our flexible programs welcomes Everybody. Our experienced trainers who have worked alongside real idol provide guidance and support, making sure the program is enjoyable for you and everyone involved.</p>
             </div>
             <div class="course-meta bg-silver-deep">
@@ -482,18 +427,12 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm2.jpg">
-              <div class="price-tag">FREE</div>
-            </div>
             <div class="course-details border-1px clearfix p-15 pt-15">
                 <img src="{{asset('assets/images/bg/bg5.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
                 <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">ONLINE VOCAL LESSONS</h4></a>
               </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
+             
               <p class="course-description mt-5">Enhance your potential with our set of online lessons! With Inspired Steps’ exclusive set of vocal lessons with professional trainers, you will be able to boost your vocal skills to achieve a level of proficiency beyond your expectations.</p>
             </div>
             <div class="course-meta bg-silver-deep">
@@ -503,18 +442,13 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">FREE</div>
-            </div>
+            
             <div class="course-details border-1px clearfix p-15 pt-15">
                 <img src="{{asset('assets/images/bg/bg6.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
                 <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">TALENT COUNSELING & EVALUATION</h4></a>
               </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
+             
               <p class="course-description mt-5">Do you want any feedback or helpful tips from industry insiders about your performances? You are in the right place! Our experts are here to provide you with advice on how you can improve your video according to the Korean Entertainments Audition Standard. Send your video to get started today!</p>
             </div>
             <div class="course-meta bg-silver-deep">
@@ -525,18 +459,13 @@
         
         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">FREE</div>
-            </div>
+           
             <div class="course-details border-1px clearfix p-15 pt-15">
                 <img src="{{asset('assets/images/bg/bg7.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
                 <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">STUDY ABROAD</h4></a>
               </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
+            
               <p class="course-description mt-5">With more than 10 years of experience in handling international education admission, we are perfectly equipped to meet your needs for choosing the right school whether it’s here in Korea or elsewhere. We’re here to help and guide you through each step of the school and Visa application process. In addition, we will also provide support and advice while you are studying abroad to ensure you’re feeling as comfortable as possible.</p>
             </div>
             <div class="course-meta bg-silver-deep">
@@ -546,18 +475,13 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">FREE</div>
-            </div>
+            
             <div class="course-details border-1px clearfix p-15 pt-15">
                 <img src="{{asset('assets/images/bg/bg8.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
                 <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">KOREAN LANGUAGE</h4></a>
               </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
+            
               <p class="course-description mt-5">Looking to learn Korean but have a tight schedule getting in the way? At Inspired Steps, we take the frustration out of the process by providing high-quality online classes with flexible schedules you can access anywhere and at any time. Don’t let this amazing learning opportunity pass you by simply because of your circumstances; get started today with our adjustable Korean programs!</p>
             </div>
             <div class="course-meta bg-silver-deep">
@@ -567,18 +491,13 @@
         </div>
         <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4">
           <div class="course-single-item style2 text-center mb-40">
-            <div class="course-thumb">
-              <img class="img-fullwidth" alt="" src="images/course/sm3.jpg">
-              <div class="price-tag">FREE</div>
-            </div>
+          
             <div class="course-details border-1px clearfix p-15 pt-15">
                 <img src="{{asset('assets/images/bg/bg9.jpg')}}" alt="A K-pop img">
               <div class="course-top-part">
                 <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20 mb-30">ONLINE CASTING</h4></a>
               </div>
-              <div class="author-thumb">
-                <img src="images/course/xs3.jpg" width="54" alt="" class="img-circle img-thumbnail">
-              </div>
+            
               <p class="course-description mt-5">Your passion may lead you to new levels of success with Inspired Steps! Do you have your own performance videos but aren’t sure how to be seen by the industry? Inspired Steps is the platform for you; after uploading your videos here, talent scouts and entertainment agencies that check our platform frequently may take you to new heights!</p>
             </div>
             <div class="course-meta bg-silver-deep">
@@ -591,151 +510,8 @@
     </div>
   </section>
 
-  <!-- Divider: Reservation Form -->
-  <section id="reservation" class="parallax layer-overlay overlay-theme-colored-9" data-bg-img="images/bg/bg1.jpg" data-parallax-ratio="0.4">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 sm-text-center">
-          <h3 class="text-white mt-30 mb-0">Get a Free online Registration</h3>
-          <h2 class="text-theme-colored2 font-54 mt-0">Register Now!</h2>
-          <p class="text-gray-darkgray font-15 pr-90 pr-sm-0 mb-sm-60">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam suscipit fugiat sint totam soluta assumenda quasi reprehenderit, quas. Natus voluptatibus perferendis repellendus provident? Amet rerum quis odio voluptas dolorem placeat soluta sit officiis odit velit! Nihil qui placeat quibusdam, voluptates voluptatum et.</p>
-          <div class="row mt-30 sm-text-center">
-            <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-              <div class="funfact">
-                <i class="pe-7s-smile mb-20 text-theme-colored2"></i>
-                <h2 data-animation-duration="2000" data-value="754" class="animate-number text-white font-38 font-weight-400 mt-0 mb-15">0</h2>
-                <h5 class="text-white text-uppercase">Happy Students</h5>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-              <div class="funfact">
-                <i class="pe-7s-notebook mb-20 text-theme-colored2"></i>
-                <h2 data-animation-duration="2000" data-value="675" class="animate-number text-white font-38 font-weight-400 mt-0 mb-15">0</h2>
-                <h5 class="text-white text-uppercase">Approved Courses</h5>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-              <div class="funfact">
-                <i class="pe-7s-users mb-20 text-theme-colored2"></i>
-                <h2 data-animation-duration="2000" data-value="675" class="animate-number text-white font-38 font-weight-400 mt-0 mb-15">0</h2>
-                <h5 class="text-white text-uppercase">Certified Teachers</h5>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-              <div class="funfact">
-                <i class="pe-7s-study mb-20 text-theme-colored2"></i>
-                <h2 data-animation-duration="2000" data-value="1248" class="animate-number text-white font-38 font-weight-400 mt-0 mb-15">0</h2>
-                <h5 class="text-white text-uppercase">Graduate Students</h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-           <div class="p-30 mt-0 bg-dark-transparent-2">
-            <h3 class="title-pattern mt-0"><span class="text-white">Request <span class="text-theme-colored2">Information</span></span></h3>
-            <!-- Appilication Form Start-->
-            <form id="reservation_form" name="reservation_form" class="reservation-form mt-20" method="post" action="http://html.kodesolution.live/j/learnpro/v4.0/demo/includes/reservation.php" novalidate="novalidate">
-              <div class="row">
-                <div class="col-sm-12">
-                  <div class="form-group mb-20">
-                    <input placeholder="Enter Name" id="reservation_name" name="reservation_name" required="" class="form-control" aria-required="true" type="text">
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group mb-20">
-                    <input placeholder="Email" id="reservation_email" name="reservation_email" class="form-control" required="" aria-required="true" type="text">
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group mb-20">
-                    <input placeholder="Phone" id="reservation_phone" name="reservation_phone" class="form-control" required="" aria-required="true" type="text">
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group mb-20">
-                    <div class="styled-select">
-                      <select id="person_select" name="person_select" class="form-control" required="">
-                        <option value="">Choose Subject</option>
-                        <option value="1 Person">Software Engineering</option>
-                        <option value="2 Person">Computer Science engineering</option>
-                        <option value="3 Person">Accounting Technologies</option>
-                        <option value="Family Pack">BACHELOR`S DEGREE</option>
-                      </select>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="form-group mb-20">
-                    <input name="Date Of Birth" class="form-control required date-picker" placeholder="Date Of Birth" aria-required="true" type="text">
-                  </div>
-                </div>
-                <div class="col-sm-12">
-                  <div class="form-group">
-                    <textarea placeholder="Enter Message" rows="3" class="form-control required" name="form_message" id="form_message" aria-required="true"></textarea>
-                  </div>
-                </div>
-                <div class="col-sm-12">
-                  <div class="form-group mb-0 mt-10">
-                    <input name="form_botcheck" class="form-control" value="" type="hidden">
-                    <button type="submit" class="btn btn-colored btn-theme-colored2 text-white btn-lg btn-block" data-loading-text="Please wait...">Submit Request</button>
-                  </div>
-                </div>
-              </div>
-            </form>
-            <!-- Application Form End-->
+  
 
-            <!-- Application Form Validation Start-->
-            <script type="text/javascript">
-              $("#reservation_form").validate({
-                submitHandler: function(form) {
-                  var form_btn = $(form).find('button[type="submit"]');
-                  var form_result_div = '#form-result';
-                  $(form_result_div).remove();
-                  form_btn.before('&amp;lt;div id="form-result" class="alert alert-success" role="alert" style="display: none;"&amp;gt;&amp;lt;/div&amp;gt;');
-                  var form_btn_old_msg = form_btn.html();
-                  form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
-                  $(form).ajaxSubmit({
-                    dataType:  'json',
-                    success: function(data) {
-                      if( data.status == 'true' ) {
-                        $(form).find('.form-control').val('');
-                      }
-                      form_btn.prop('disabled', false).html(form_btn_old_msg);
-                      $(form_result_div).html(data.message).fadeIn('slow');
-                      setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
-                    }
-                  });
-                }
-              });
-            </script>
-            <!-- Application Form Validation Start -->
-            </div>
-         </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Divider: Clients -->
-  <section class="clients bg-theme-colored2">
-    <div class="container pt-10 pb-10">
-      <div class="row">
-        <div class="col-md-12">
-          <!-- Section: Clients -->
-          <div class="owl-carousel-6col clients-logo transparent text-center">
-            <div class="item"> <a href="#"><img src="images/clients/w1.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w2.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w3.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w4.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w5.png" alt=""></a></div>
-            <div class="item"> <a href="#"><img src="images/clients/w6.png" alt=""></a></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>    
+    
 
 @endsection
