@@ -8,7 +8,7 @@
 <meta name="keywords" content="education,school,university,educational,learn,learning,teaching,workshop" />
 <meta name="author" content="ThemeMascot" />
 
-<title>Inspired Steps</title>
+@yield('title')
 
 <!-- Favicon and Touch Icons -->
 <link href="{{asset('assets/images/favicon.png')}}" rel="shortcut icon" type="image/png">
@@ -110,11 +110,12 @@
       <div class="header-nav-wrapper">
         <div class="container">
           <nav id="menuzord-right" class="menuzord default no-bg">
-            <a class="menuzord-brand switchable-logo pull-left flip mb-15" href="index-mp-layout1.html">
-              <!-- <img class="logo-default" src="{{asset('assets/images/logo-wide-white.pn')}}" alt=""> -->
+            <a class="menuzord-brand switchable-logo pull-left flip mb-15" href="{{url('/')}}">
+              <img class="logo-default" src="{{asset('assets/images/logo-wide-white.png')}}" alt="">
+              <img class="logo-scrolled-to-fixed" src="{{asset('assets/images/logo-wide.png')}}" alt="">
             </a>
             <ul class="menuzord-menu">
-              <li class="active"><a href="#home">Home</a>
+              <li class="{{ (request()->is('/')) ? 'active' : '' }}"><a href="{{url('/')}}">Home</a>
                 
               </li>
               <li><a href="#">K-Star Training</a>
@@ -142,7 +143,7 @@
               </li>
               <li><a href="#">Study Abroad</a>
               </li>
-              <li><a href="#">About us</a>
+              <li class="{{ (request()->is('aboutus')) ? 'active' : '' }}"><a href="{{url('aboutus')}}">About us</a>
               </li>
             </ul>
           </nav>
@@ -290,6 +291,6 @@
 <script type="text/javascript" src="{{asset('assets/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('assets/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js')}}"></script>
 <script type="text/javascript" src="{{asset('assets/js/revolution-slider/js/extensions/revolution.extension.video.min.js')}}"></script>
-
+@yield('scripts')
 </body>
 </html>

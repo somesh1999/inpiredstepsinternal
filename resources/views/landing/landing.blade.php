@@ -1,5 +1,7 @@
 @extends('landing.layout.index')
-
+@section('title')
+<title>Inspiredsteps - Inspired Steps</title>
+@endsection
 @section('content')
  <!-- Section: home -->
  <section id="home">

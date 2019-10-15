@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('edu', function(){
     return view('landing.training.index');
 });
+Route::get('aboutus', function(){
+	return view('aboutus.index');
+});
